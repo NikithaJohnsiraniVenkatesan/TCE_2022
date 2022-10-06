@@ -12,23 +12,23 @@ This repository overviews EDA, Preprocessing and XGB model.
 
 Why preprocessing?
 
-Real-world data are generally:
+## Real-world data are generally:
 
-Incomplete: lacking attribute values, lacking certain attributes of interest, or containing only aggregate data
-Noisy: containing errors or outliers
-Inconsistent: containing discrepancies in codes or names
+- Incomplete: lacking attribute values, lacking certain attributes of interest, or containing only aggregate data
+- Noisy: containing errors or outliers
+- Inconsistent: containing discrepancies in codes or names
 
-Tasks in data preprocessing:
+## Tasks in data preprocessing:
 
-Data cleaning: fill in missing values, smooth noisy data, identify or remove outliers, and resolve inconsistencies.
-Data transformation: normalization and aggregation.
-Data reduction: reducing the volume but producing the same or similar analytical results.
-Data discretization: part of data reduction, replacing numerical attributes with nominal ones.
+- Data cleaning: fill in missing values, smooth noisy data, identify or remove outliers, and resolve inconsistencies.
+- Data transformation: normalization and aggregation.
+- Data reduction: reducing the volume but producing the same or similar analytical results.
+- Data discretization: part of data reduction, replacing numerical attributes with nominal ones.
 
 # XGBoost
 
-Data description
-Hyper-parameter tuning
-K fold Cross Validation
-Grid Search
-Evaluation Metrics
+- Data description
+- Hyper-parameter tuning
+- K fold Cross Validation
+- Grid Search
+- Evaluation Metrics
